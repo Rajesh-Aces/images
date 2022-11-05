@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="396" height="362" viewBox="0 0 396 362">
+  <g id="Group_620" data-name="Group 620" transform="translate(-11236.871 -2784)">
+    <line id="Line_93" data-name="Line 93" y2="210.723" transform="translate(11295.371 2858.396)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+    <line id="Line_94" data-name="Line 94" x2="323.426" transform="translate(11295.371 3068.5)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+    <line id="Line_95" data-name="Line 95" x2="323.426" transform="translate(11295.371 3026.5)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+    <line id="Line_97" data-name="Line 97" x2="323.426" transform="translate(11295.371 2942.5)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+    <line id="Line_99" data-name="Line 99" x2="323.426" transform="translate(11295.371 2858.5)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+    <line id="Line_96" data-name="Line 96" x2="323.426" transform="translate(11295.371 2984.5)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+    <line id="Line_98" data-name="Line 98" x2="323.426" transform="translate(11295.371 2900.5)" fill="none" stroke="#ebebeb" stroke-width="1"/>
+    <rect id="Rectangle_191" data-name="Rectangle 191" width="7.998" height="104.722" transform="translate(11333.871 2964)" fill="#4791ff"/>
+    <rect id="Rectangle_246" data-name="Rectangle 246" width="7.998" height="132.722" transform="translate(11423.871 2936)" fill="#4791ff"/>
+    <rect id="Rectangle_250" data-name="Rectangle 250" width="7.998" height="154.722" transform="translate(11513.871 2914)" fill="#4791ff"/>
+    <rect id="Rectangle_192" data-name="Rectangle 192" width="7.998" height="21" transform="translate(11348.355 3048)" fill="#ff2366"/>
+    <rect id="Rectangle_247" data-name="Rectangle 247" width="7.998" height="37" transform="translate(11438.355 3032)" fill="#ff2366"/>
+    <rect id="Rectangle_251" data-name="Rectangle 251" width="7.998" height="43" transform="translate(11528.355 3026)" fill="#ff2366"/>
+    <rect id="Rectangle_193" data-name="Rectangle 193" width="7.998" height="35" transform="translate(11362.791 3033.998)" fill="#02bc77"/>
+    <rect id="Rectangle_248" data-name="Rectangle 248" width="7.998" height="105" transform="translate(11452.791 2963.998)" fill="#02bc77"/>
+    <rect id="Rectangle_252" data-name="Rectangle 252" width="7.998" height="120" transform="translate(11542.791 2948.998)" fill="#02bc77"/>
+    <rect id="Rectangle_245" data-name="Rectangle 245" width="7.998" height="60" transform="translate(11376.998 3009)" fill="#ffd950"/>
+    <rect id="Rectangle_249" data-name="Rectangle 249" width="7.998" height="30" transform="translate(11466.998 3039)" fill="#ffd950"/>
+    <rect id="Rectangle_253" data-name="Rectangle 253" width="7.998" height="43" transform="translate(11556.998 3026)" fill="#ffd950"/>
+    <text id="_0" data-name="0" transform="translate(11272.871 3082.871)" fill="#707070" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">0</tspan></text>
+    <text id="_20" data-name="20" transform="translate(11266.871 3027)" fill="#707070" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">20</tspan></text>
+    <text id="_2022" data-name="2022" transform="translate(11526.871 3088)" fill="#707070" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2022</tspan></text>
+    <text id="_2020" data-name="2020" transform="translate(11346.871 3088)" fill="#707070" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2020</tspan></text>
+    <text id="_2021" data-name="2021" transform="translate(11436.871 3088)" fill="#707070" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">2021</tspan></text>
+    <text id="_40" data-name="40" transform="translate(11266.871 2986.699)" fill="#707070" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">40</tspan></text>
+    <text id="_60" data-name="60" transform="translate(11266.871 2944.59)" fill="#707070" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">60</tspan></text>
+    <text id="_80" data-name="80" transform="translate(11266.871 2905.197)" fill="#707070" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">80</tspan></text>
+    <text id="_100" data-name="100" transform="translate(11266.871 2864.447)" fill="#707070" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">100</tspan></text>
+    <g id="Group_82" data-name="Group 82" transform="translate(10882.871 1950)">
+      <text id="Total" transform="translate(392 1193)" fill="#707070" font-size="12" font-family="Roboto-Regular, Roboto" letter-spacing="0.02em"><tspan x="0" y="0">Total</tspan></text>
+      <text id="To_do" data-name="To do" transform="translate(484 1193)" fill="#707070" font-size="12" font-family="Roboto-Regular, Roboto" letter-spacing="0.02em"><tspan x="0" y="0">To do</tspan></text>
+      <text id="Complted" transform="translate(580 1193)" fill="#707070" font-size="12" font-family="Roboto-Regular, Roboto" letter-spacing="0.02em"><tspan x="0" y="0">Complted</tspan></text>
+      <text id="Overdue" transform="translate(704 1193)" fill="#707070" font-size="12" font-family="Roboto-Regular, Roboto" letter-spacing="0.02em"><tspan x="0" y="0">Overdue</tspan></text>
+      <circle id="Ellipse_85" data-name="Ellipse 85" cx="5.5" cy="5.5" r="5.5" transform="translate(370 1183)" fill="#4791ff"/>
+      <circle id="Ellipse_86" data-name="Ellipse 86" cx="5.5" cy="5.5" r="5.5" transform="translate(462 1183.999)" fill="#ffd950"/>
+      <circle id="Ellipse_87" data-name="Ellipse 87" cx="5.5" cy="5.5" r="5.5" transform="translate(558 1184)" fill="#02bc77"/>
+      <circle id="Ellipse_88" data-name="Ellipse 88" cx="5.5" cy="5.5" r="5.5" transform="translate(682 1184)" fill="#ff2366"/>
+    </g>
+    <line id="Line_104" data-name="Line 104" x2="381.129" transform="translate(11237.371 2826)" fill="none" stroke="#66676c" stroke-width="1" opacity="0.5"/>
+    <line id="Line_107" data-name="Line 107" x2="381.629" transform="translate(11236.871 3111)" fill="none" stroke="#efefef" stroke-width="1"/>
+    <text id="Task" transform="translate(11242.871 2803)" fill="#66676c" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.025em"><tspan x="0" y="0">Task</tspan></text>
+    <g id="Group_536" data-name="Group 536" transform="translate(11510.871 2784)">
+      <text id="This_Month" data-name="This Month" transform="translate(11 2)" fill="#66676c" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">This Month</tspan></text>
+      <path id="Path_2807" data-name="Path 2807" d="M2936.457,214.955l4.515,4.514,4.514-4.514" transform="translate(-2845 -205)" fill="none" stroke="#66676c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
